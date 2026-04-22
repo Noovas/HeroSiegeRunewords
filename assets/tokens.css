@@ -1,0 +1,27 @@
+/* assets/tokens.css */
+:root {
+    --font-main: 'Modern Antiqua', serif;
+
+    --color-golden-full: #C7B377;
+    --color-golden-muted: #c7b377a8;
+    --color-golden-muted-xl: #c7b37752;
+
+    --color-dirt-full: #221B1B;
+    --color-dirt-full-muted: #221b1b96;
+
+    --color-grey-full: #A9A9A9;
+
+    --color-blue-full: #3494c4;
+
+    --spacing-lg: 32px;
+    --spacing-md: 16px;
+    --spacing-sm: 8px;
+    --spacing-xs: 4px;
+
+    --font-size-lg: 2.5rem;
+    --font-size-md: 2.0rem;
+    --font-size-sm: 1.5rem;
+    --font-size-xs: 1.0rem;
+    --font-size-xxs: 0.7rem;
+    --font-size-xxxs: 0.5rem;
+}
